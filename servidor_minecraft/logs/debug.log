@@ -8738,3 +8738,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Nov2024 03:48:29.472] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
 [27Nov2024 03:48:29.472] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [27Nov2024 03:48:29.473] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[27Nov2024 03:48:59.740] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming com/mrcrayfish/goblintraders/Hooks
+[27Nov2024 03:48:59.742] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[27Nov2024 03:50:16.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 03:50:16.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 03:50:34.743] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[27Nov2024 03:50:34.805] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[27Nov2024 03:50:34.828] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[27Nov2024 03:50:35.104] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.104] [Worker-Main-10/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.104] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.104] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.105] [Worker-Main-10/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.105] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.107] [Worker-Main-10/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Nov2024 03:50:35.110] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.110] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.110] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.111] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Nov2024 03:50:35.624] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Nov2024 03:50:35.626] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Nov2024 03:50:35.626] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Nov2024 03:50:35.628] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Nov2024 03:50:35.628] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Nov2024 03:50:39.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[27Nov2024 03:52:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [My Name is Nobody]
+[27Nov2024 03:52:48.341] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@7a4703d7 for service interface com.blamejared.clumps.platform.IEventHelper
+[27Nov2024 03:52:48.341] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@524400d8 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[27Nov2024 03:53:31.610] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[27Nov2024 03:55:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Local Librarian]
+[27Nov2024 03:55:16.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 03:55:16.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 03:56:50.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas withered away
+[27Nov2024 03:56:53.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Nov2024 03:56:53.179] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Nov2024 03:56:53.203] [Server thread/DEBUG] [twilightforest/]: Player AkujinPas (57c8368e-093c-33cd-9ed8-a4d2d1c1504f) respawned and received items held in storage

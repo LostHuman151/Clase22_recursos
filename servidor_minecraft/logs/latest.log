@@ -945,3 +945,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Nov2024 03:48:29.472] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
 [27Nov2024 03:48:29.472] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [27Nov2024 03:48:29.473] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[27Nov2024 03:48:59.742] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[27Nov2024 03:52:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [My Name is Nobody]
+[27Nov2024 03:55:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Local Librarian]
+[27Nov2024 03:56:50.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas withered away
+[27Nov2024 03:56:53.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27Nov2024 03:56:53.179] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
