@@ -951,3 +951,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Nov2024 03:56:50.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas withered away
 [27Nov2024 03:56:53.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Nov2024 03:56:53.179] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27Nov2024 04:16:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Respecting the Remnants]
+[27Nov2024 04:19:08.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[27Nov2024 04:19:08.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game

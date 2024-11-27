@@ -8785,3 +8785,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Nov2024 03:56:53.178] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [27Nov2024 03:56:53.179] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [27Nov2024 03:56:53.203] [Server thread/DEBUG] [twilightforest/]: Player AkujinPas (57c8368e-093c-33cd-9ed8-a4d2d1c1504f) respawned and received items held in storage
+[27Nov2024 04:00:16.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:00:16.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:04:48.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_01
+[27Nov2024 04:04:48.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_02
+[27Nov2024 04:04:48.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/crossroad_02
+[27Nov2024 04:04:48.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_03
+[27Nov2024 04:04:48.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_04
+[27Nov2024 04:04:48.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/streets/straight_05
+[27Nov2024 04:04:48.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/professions_misc/rustic_butcher_1
+[27Nov2024 04:04:48.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/professions_misc/rustic_cartographer_1
+[27Nov2024 04:04:48.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/terminators/terminator_02
+[27Nov2024 04:04:48.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/terminators/terminator_01
+[27Nov2024 04:05:16.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:05:16.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:10:16.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:10:16.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:15:16.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:15:16.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:16:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Respecting the Remnants]
+[27Nov2024 04:19:08.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[27Nov2024 04:19:08.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
