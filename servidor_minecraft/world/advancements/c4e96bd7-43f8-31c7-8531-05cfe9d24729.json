@@ -10188,6 +10188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-27 05:04:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
       "has_black_sheet": "2024-11-27 04:53:43 +0000"
@@ -10200,6 +10206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-27 05:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2024-11-27 04:26:41 +0000"
@@ -10208,7 +10220,8 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
-      "has_raw_mutton": "2024-11-27 03:52:50 +0000"
+      "has_raw_mutton": "2024-11-27 03:52:50 +0000",
+      "has_raw_chicken": "2024-11-27 05:04:51 +0000"
     },
     "done": false
   },
@@ -10278,6 +10291,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/chicken_decomposing": {
+    "criteria": {
+      "has_chicken": "2024-11-27 05:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-11-27 04:53:43 +0000"
@@ -10344,9 +10363,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-27 05:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-11-27 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-27 05:04:51 +0000"
     },
     "done": true
   },

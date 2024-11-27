@@ -340,6 +340,7 @@
       "seasonal_orchard": "2024-11-24 09:27:33 +0000",
       "seasonal_forest": "2024-11-23 07:25:29 +0000",
       "volcanic_plains": "2024-11-25 07:32:28 +0000",
+      "lavender_field": "2024-11-27 05:04:25 +0000",
       "fir_clearing": "2024-11-25 03:19:24 +0000",
       "pumpkin_patch": "2024-11-25 02:32:37 +0000",
       "grassland": "2024-11-24 05:52:16 +0000",
@@ -1241,6 +1242,7 @@
       "minecraft:river": "2024-11-22 07:08:28 +0000",
       "minecraft:stony_shore": "2024-11-24 05:52:39 +0000",
       "minecraft:snowy_plains": "2024-11-24 08:10:19 +0000",
+      "minecraft:swamp": "2024-11-27 04:58:44 +0000",
       "minecraft:cold_ocean": "2024-11-24 09:20:01 +0000",
       "minecraft:forest": "2024-11-23 07:26:26 +0000",
       "minecraft:lush_caves": "2024-11-25 07:51:27 +0000",
@@ -9894,9 +9896,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-27 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bison_fur_decomposing": {
+    "criteria": {
+      "has_bison_fur": "2024-11-27 05:03:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-11-27 05:05:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-11-27 05:03:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2024-11-27 04:48:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-11-27 05:03:19 +0000"
     },
     "done": true
   },
