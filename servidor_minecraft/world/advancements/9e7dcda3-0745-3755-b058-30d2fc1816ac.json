@@ -9636,15 +9636,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "has_ancient_debris": "2024-11-26 08:37:37 +0000"
+      "has_iron_ore": "2024-11-26 07:51:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
-      "has_blackstone": "2024-11-26 08:17:24 +0000"
+      "has_iron_ore": "2024-11-26 07:51:13 +0000"
     },
     "done": true
   },
@@ -9654,15 +9654,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-26 08:17:24 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2024-11-26 07:57:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-11-26 08:00:10 +0000"
     },
     "done": true
   },
@@ -9672,33 +9672,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2024-11-26 08:17:24 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2024-11-26 08:10:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-11-26 08:17:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2024-11-26 07:51:13 +0000"
     },
     "done": true
   },
@@ -9714,15 +9696,75 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/relics/forbidden_fruit": {
-    "criteria": {
-      "has_items": "2024-11-26 09:06:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-26 08:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-11-26 08:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-26 08:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-11-26 08:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-11-26 08:17:24 +0000"
     },
     "done": true
   },
@@ -9750,27 +9792,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-11-26 08:37:37 +0000"
     },
     "done": true
   },
@@ -9786,39 +9810,15 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-11-26 08:49:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2024-11-26 09:03:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2024-11-26 07:51:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
     },
     "done": true
   },
@@ -9834,24 +9834,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/quartz_corner_trim": {
-    "criteria": {
-      "has_quartz_corner_trim": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-11-26 08:37:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
@@ -9864,33 +9846,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2024-11-26 08:10:58 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_revenant": {
-    "criteria": {
-      "endergolem": "2024-11-26 08:00:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-11-26 08:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-26 08:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-11-26 08:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-11-26 08:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-11-26 08:49:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-11-26 09:03:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/forbidden_fruit": {
+    "criteria": {
+      "has_items": "2024-11-26 09:06:27 +0000"
     },
     "done": true
   },
