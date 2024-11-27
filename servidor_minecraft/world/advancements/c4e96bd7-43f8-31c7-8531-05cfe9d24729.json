@@ -9893,21 +9893,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/dead_button": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "has_planks": "2024-11-26 07:17:54 +0000"
+      "killed_by": "2024-11-26 06:58:02 +0000"
     },
     "done": true
   },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+  "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
     "criteria": {
-      "has_item": "2024-11-26 09:03:37 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2024-11-26 09:15:15 +0000"
+      "has_tarantula_hawk_wing_fragment": "2024-11-26 06:58:08 +0000"
     },
     "done": true
   },
@@ -9923,33 +9917,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-11-26 09:03:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2024-11-26 07:01:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-26 07:11:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2024-11-26 08:26:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-11-26 07:23:33 +0000"
     },
     "done": true
   },
@@ -9971,6 +9941,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-26 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-26 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-11-26 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-26 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-11-26 07:01:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-26 07:11:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-11-26 07:15:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2024-11-26 07:17:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2024-11-26 07:17:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2024-11-26 07:17:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-26 07:17:54 +0000"
@@ -9983,75 +10013,15 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/glowstone_dust_decomposing": {
-    "criteria": {
-      "has_glowstone_dust": "2024-11-26 08:54:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2024-11-26 07:44:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-11-26 07:01:20 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2024-11-26 06:58:02 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2024-11-26 08:59:49 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_planks": "2024-11-26 07:17:54 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/dead_planks": {
-    "criteria": {
-      "has_logs": "2024-11-26 07:17:48 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/brewing/molten_heart_potion": {
-    "criteria": {
-      "has_items": "2024-11-26 09:03:37 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_planks": "2024-11-26 07:17:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
-    "criteria": {
-      "has_item": "2024-11-26 07:15:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-11-26 09:03:37 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
-    "criteria": {
-      "has_tarantula_hawk_wing_fragment": "2024-11-26 06:58:08 +0000"
     },
     "done": true
   },
@@ -10073,9 +10043,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+  "biomesoplenty:recipes/redstone/dead_door": {
     "criteria": {
-      "has_sandstone": "2024-11-26 07:01:20 +0000"
+      "has_planks": "2024-11-26 07:17:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-26 07:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-26 07:23:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-11-26 07:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-26 07:43:06 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/red_sand_decomposing": {
+    "criteria": {
+      "has_red_sand": "2024-11-26 07:43:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-11-26 07:44:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+    "criteria": {
+      "has_flower": "2024-11-26 07:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-26 08:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-26 08:26:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust_decomposing": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-26 08:54:08 +0000"
     },
     "done": true
   },
@@ -10085,15 +10115,39 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_sandstone_pillar_trim": "2024-11-26 07:01:20 +0000"
+      "has_glowstone_dust": "2024-11-26 08:54:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
-      "has_sand": "2024-11-26 07:43:06 +0000"
+      "has_rose_quartz_chunk": "2024-11-26 08:59:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2024-11-26 09:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-26 09:03:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-11-26 09:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-26 09:03:37 +0000"
     },
     "done": true
   },
@@ -10109,69 +10163,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-11-26 07:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2024-11-26 08:26:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2024-11-26 07:29:51 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/red_sand_decomposing": {
-    "criteria": {
-      "has_red_sand": "2024-11-26 07:43:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_wood": {
-    "criteria": {
-      "has_log": "2024-11-26 07:17:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_door": {
-    "criteria": {
-      "has_planks": "2024-11-26 07:17:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-11-26 09:03:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "has_glowstone_dust": "2024-11-26 08:54:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2024-11-26 07:01:20 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-26 07:17:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
-    "criteria": {
-      "has_flower": "2024-11-26 07:50:44 +0000"
+      "killed_by": "2024-11-26 09:15:15 +0000"
     },
     "done": true
   },
