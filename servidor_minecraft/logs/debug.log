@@ -8004,3 +8004,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 02:17:35.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Nov2024 02:17:35.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Nov2024 02:17:51.848] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from attributeslib.mixins.json into net.minecraft.world.damagesource.CombatRules
+[28Nov2024 02:22:35.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:22:35.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:25:47.503] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@847a3ec for service interface com.blamejared.clumps.platform.IEventHelper
+[28Nov2024 02:25:47.503] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@87ebda3 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[28Nov2024 02:27:35.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:27:35.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
