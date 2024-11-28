@@ -9847,6 +9847,30 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-11-28 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2024-11-28 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-11-28 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-11-28 03:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-11-28 02:26:59 +0000"
@@ -9859,9 +9883,21 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-11-28 03:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2024-11-28 02:26:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_brown": {
+    "criteria": {
+      "has_item": "2024-11-28 03:35:48 +0000"
     },
     "done": true
   },

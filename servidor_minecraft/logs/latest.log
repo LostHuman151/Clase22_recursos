@@ -907,3 +907,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 02:16:37.153] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [28Nov2024 02:16:37.153] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdcdac2f$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [28Nov2024 03:29:33.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=108, y=97, z=-184} BlockPos{x=110, y=96, z=-184}
+[28Nov2024 03:43:09.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
+[28Nov2024 03:43:09.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[28Nov2024 03:43:09.508] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
