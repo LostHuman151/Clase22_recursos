@@ -910,3 +910,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 03:43:09.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
 [28Nov2024 03:43:09.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [28Nov2024 03:43:09.508] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 03:44:22.892] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75b12fc2[id=<null>,name=AkujinPas,properties={},legacy=false] (/127.196.55.183:49901) lost connection: Disconnected
+[28Nov2024 03:44:53.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:40745] logged in with entity id 8221 at (141.28694201946715, 87.0, -198.53698544113854)
+[28Nov2024 03:44:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[28Nov2024 03:44:53.807] [Server thread/INFO] [Jade/]: Syncing config to AkujinPas (57c8368e-093c-33cd-9ed8-a4d2d1c1504f)
+[28Nov2024 03:44:53.808] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[28Nov2024 03:44:53.808] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Nov2024 03:44:53.809] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[28Nov2024 03:48:56.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:60733] logged in with entity id 9069 at (-863.5, 110.0, 247.5)
+[28Nov2024 03:48:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[28Nov2024 03:48:56.342] [Server thread/INFO] [Jade/]: Syncing config to ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729)
+[28Nov2024 03:48:56.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[28Nov2024 03:48:56.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Nov2024 03:48:56.345] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[28Nov2024 03:52:12.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9134, l='ServerLevel[world]', x=-908.35, y=117.85, z=199.45] died: Honeyed Archer burned to death
