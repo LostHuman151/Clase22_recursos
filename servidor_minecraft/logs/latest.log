@@ -936,3 +936,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 04:00:45.588] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [28Nov2024 04:00:45.589] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
 [28Nov2024 04:02:21.114] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[28Nov2024 04:06:23.628] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by ica_1016
+[28Nov2024 04:08:05.927] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by ica_1016

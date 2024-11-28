@@ -11101,5 +11101,17 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-11-28 04:08:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/turtle_helmet_decomposing": {
+    "criteria": {
+      "has_turtle_helmet": "2024-11-28 04:06:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
