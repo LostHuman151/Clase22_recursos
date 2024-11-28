@@ -322,13 +322,16 @@
     "criteria": {
       "shrubland": "2024-11-22 06:24:34 +0000",
       "rocky_shrubland": "2024-11-22 06:25:26 +0000",
+      "scrubland": "2024-11-27 08:03:22 +0000",
       "erupting_inferno": "2024-11-24 03:26:03 +0000",
       "highland": "2024-11-23 07:12:07 +0000",
       "jade_cliffs": "2024-11-23 07:16:52 +0000",
       "clover_patch": "2024-11-22 05:42:11 +0000",
       "cold_desert": "2024-11-24 10:10:54 +0000",
+      "old_growth_woodland": "2024-11-27 08:04:12 +0000",
       "maple_woods": "2024-11-22 07:22:03 +0000",
       "orchard": "2024-11-23 07:16:19 +0000",
+      "mediterranean_forest": "2024-11-27 08:03:23 +0000",
       "coniferous_forest": "2024-11-22 07:26:31 +0000",
       "spider_nest": "2024-11-25 05:39:23 +0000",
       "redwood_forest": "2024-11-22 08:20:33 +0000",
@@ -576,6 +579,7 @@
       "minecraft:beach": "2024-11-22 06:23:59 +0000",
       "minecraft:dark_forest": "2024-11-22 07:14:32 +0000",
       "minecraft:river": "2024-11-22 06:21:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-27 08:04:47 +0000",
       "minecraft:stony_shore": "2024-11-22 06:23:07 +0000",
       "minecraft:forest": "2024-11-22 07:24:31 +0000",
       "minecraft:lush_caves": "2024-11-22 09:37:21 +0000",
@@ -1232,6 +1236,7 @@
       "golden_apple": "2024-11-23 11:05:24 +0000",
       "cookie": "2024-11-23 05:47:52 +0000",
       "rotten_flesh": "2024-11-24 03:26:28 +0000",
+      "golden_carrot": "2024-11-27 10:24:56 +0000",
       "enchanted_golden_apple": "2024-11-23 09:50:49 +0000",
       "carrot": "2024-11-23 09:00:41 +0000"
     },
@@ -9734,15 +9739,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "has_sweet_berries": "2024-11-27 04:48:46 +0000"
+      "has_honey_block": "2024-11-27 04:48:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
+    "criteria": {
+      "has_grass_block": "2024-11-27 04:48:34 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2024-11-27 04:48:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-27 04:48:46 +0000"
     },
     "done": true
   },
@@ -9776,21 +9793,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2024-11-27 04:48:34 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
-    "criteria": {
-      "has_grass_block": "2024-11-27 04:48:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-27 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-11-27 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-11-27 06:24:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-11-27 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-11-27 07:15:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_twisting_vines": {
+    "criteria": {
+      "has_twisting_vines": "2024-11-27 07:55:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ink_sac_decomposing": {
+    "criteria": {
+      "has_ink_sac": "2024-11-27 08:07:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-27 08:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-11-27 08:07:29 +0000"
     },
     "done": true
   },

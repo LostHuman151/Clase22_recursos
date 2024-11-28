@@ -326,6 +326,7 @@
       "scrubland": "2024-11-25 02:56:03 +0000",
       "erupting_inferno": "2024-11-25 08:16:50 +0000",
       "highland": "2024-11-22 07:03:58 +0000",
+      "marsh": "2024-11-27 05:51:07 +0000",
       "jade_cliffs": "2024-11-25 02:33:05 +0000",
       "clover_patch": "2024-11-22 07:03:42 +0000",
       "cold_desert": "2024-11-24 08:13:18 +0000",
@@ -333,6 +334,7 @@
       "crystalline_chasm": "2024-11-25 08:39:51 +0000",
       "orchard": "2024-11-25 02:32:41 +0000",
       "lavender_forest": "2024-11-25 06:31:42 +0000",
+      "mediterranean_forest": "2024-11-27 08:46:16 +0000",
       "coniferous_forest": "2024-11-25 00:24:36 +0000",
       "spider_nest": "2024-11-25 02:40:32 +0000",
       "redwood_forest": "2024-11-25 02:31:12 +0000",
@@ -1242,6 +1244,7 @@
       "minecraft:river": "2024-11-22 07:08:28 +0000",
       "minecraft:stony_shore": "2024-11-24 05:52:39 +0000",
       "minecraft:snowy_plains": "2024-11-24 08:10:19 +0000",
+      "minecraft:dripstone_caves": "2024-11-27 05:18:23 +0000",
       "minecraft:swamp": "2024-11-27 04:58:44 +0000",
       "minecraft:cold_ocean": "2024-11-24 09:20:01 +0000",
       "minecraft:forest": "2024-11-23 07:26:26 +0000",
@@ -2530,6 +2533,8 @@
       "golden_carrot": "2024-11-24 07:45:42 +0000",
       "cooked_chicken": "2024-11-24 08:28:19 +0000",
       "enchanted_golden_apple": "2024-11-25 06:15:27 +0000",
+      "mushroom_stew": "2024-11-27 08:30:59 +0000",
+      "rabbit_stew": "2024-11-27 07:23:16 +0000",
       "carrot": "2024-11-24 06:06:51 +0000"
     },
     "done": false
@@ -2566,6 +2571,7 @@
       "minecraft:zombified_piglin": "2024-11-25 08:27:43 +0000",
       "minecraft:witch": "2024-11-24 06:03:19 +0000",
       "minecraft:wither_skeleton": "2024-11-25 00:40:16 +0000",
+      "minecraft:husk": "2024-11-27 06:03:59 +0000",
       "minecraft:cave_spider": "2024-11-25 06:03:39 +0000",
       "minecraft:piglin": "2024-11-26 08:15:19 +0000",
       "minecraft:enderman": "2024-11-25 07:06:51 +0000",
@@ -7327,9 +7333,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-11-25 00:49:26 +0000"
+      "has_parent_recipe": "2024-11-25 00:49:26 +0000",
+      "has_items": "2024-11-27 08:40:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -9896,9 +9903,27 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-11-27 04:48:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2024-11-27 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-11-27 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-11-27 05:03:19 +0000"
     },
     "done": true
   },
@@ -9914,21 +9939,310 @@
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_item": "2024-11-27 05:03:19 +0000"
+      "has_netherite_upgrade_smithing_template": "2024-11-27 05:22:53 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/wooden_axe_repairing": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_wooden_axe": "2024-11-27 04:48:11 +0000"
+      "has_wither_rose": "2024-11-27 05:37:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+  "biomancy:recipes/biomancy/decomposing/wither_rose_decomposing": {
     "criteria": {
-      "has_item": "2024-11-27 05:03:19 +0000"
+      "has_wither_rose": "2024-11-27 05:37:05 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-27 05:41:40 +0000",
+      "in_better_monster_room": "2024-11-27 07:11:03 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-11-27 05:41:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2024-11-27 05:46:38 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone_decomposing": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-11-27 06:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-11-27 06:00:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-11-27 06:13:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/elastic_tendon_decomposing": {
+    "criteria": {
+      "has_elastic_tendon": "2024-11-27 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2024-11-27 06:27:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2024-11-27 06:27:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/amethyst_shard_decomposing": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-27 06:27:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-11-27 06:44:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-11-27 07:11:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2024-11-27 07:13:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2024-11-27 07:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-11-27 07:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-11-27 07:14:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-11-27 07:23:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-11-27 07:37:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2024-11-27 07:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-27 08:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-11-27 08:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-11-27 08:10:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-11-27 08:10:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-27 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-27 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-11-27 08:40:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ender_eye_decomposing": {
+    "criteria": {
+      "has_ender_eye": "2024-11-27 08:40:47 +0000"
     },
     "done": true
   },
