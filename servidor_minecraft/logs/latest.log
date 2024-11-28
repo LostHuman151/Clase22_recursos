@@ -924,3 +924,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 03:48:56.344] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [28Nov2024 03:48:56.345] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
 [28Nov2024 03:52:12.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9134, l='ServerLevel[world]', x=-908.35, y=117.85, z=199.45] died: Honeyed Archer burned to death
+[28Nov2024 03:55:49.217] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 105, 96, -154.
+[28Nov2024 03:56:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> libros
+[28Nov2024 03:59:57.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[28Nov2024 03:59:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[28Nov2024 04:00:29.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58d5c23f[id=<null>,name=ica_1016,properties={},legacy=false] (/127.246.153.96:45461) lost connection: Disconnected
+[28Nov2024 04:00:45.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:57959] logged in with entity id 10990 at (117.6833231567168, 70.0, -149.4518881521233)
+[28Nov2024 04:00:45.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[28Nov2024 04:00:45.587] [Server thread/INFO] [Jade/]: Syncing config to ica_1016 (c4e96bd7-43f8-31c7-8531-05cfe9d24729)
+[28Nov2024 04:00:45.588] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[28Nov2024 04:00:45.588] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Nov2024 04:00:45.589] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[28Nov2024 04:02:21.114] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
