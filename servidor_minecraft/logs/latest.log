@@ -958,3 +958,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Nov2024 05:20:53.624] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
 [28Nov2024 05:20:53.624] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [28Nov2024 05:20:53.625] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[28Nov2024 05:25:46.465] [Server thread/INFO] [Scaling Health/]: Blight Fly has died
+[28Nov2024 05:26:05.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Voy a cenar, dejaré el server abierto
+[28Nov2024 05:26:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> VALE
+[28Nov2024 05:26:16.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[28Nov2024 05:26:16.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
